@@ -1,0 +1,17 @@
+# Udacity Project3: GitHub
+
+README created on 10/02/21
+
+The files are from the second project for Udacity's Data Analyst Nanodegree Program where
+bike rideshare data for a few select cities (New York, Chicago, and Washington,
+DC) are used to create a terminal application that gives a set of summary
+statistics for each city. This is implemented in Python.
+
+## Requirements
+`Python 3.x`, `Pandas` and the GitHub Repo: https://github.com/Ralfs-GitHub/pdsnd_github
+
+>**Note**: Please **fork** the current repository to your Github account. After forking, you 
+will have a **remote** repository in your Github account. Clone the remote repository to your 
+local machine. Later, as a part of the project "Post your Work on Github", you will 
+push your proposed changes to the **remote repository in your** Github account.		
+
