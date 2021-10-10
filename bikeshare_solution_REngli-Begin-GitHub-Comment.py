@@ -36,7 +36,7 @@ WEEK_DATA = { 'monday': 0,
 
 def get_filters():
     """
-    This version of Bikeshare is under constant Version Control on GitHub
+    This version of Bikeshare is under constant control on GitHub-update 1-
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
@@ -298,6 +298,10 @@ def display_data(df):
             else:
                 print('Invalid choice, please read the instructions above carefully')
                 return
+            """
+    This version of Bikeshare is under constant control on GitHub and here is a change at the END
+
+    """
 
 def main():
     while True:
@@ -317,3 +321,5 @@ def main():
 
 if __name__ == "__main__":
 	main()
+    
+    
