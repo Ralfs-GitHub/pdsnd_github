@@ -36,7 +36,7 @@ WEEK_DATA = { 'monday': 0,
 
 def get_filters():
     """
-    This version of Bikeshare is under constant control on GitHub
+    This version of Bikeshare is under constant control on GitHub-update 1-
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
