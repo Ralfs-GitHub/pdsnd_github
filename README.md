@@ -7,3 +7,4 @@ statistics for each city. This is implemented in Python.
 
 ## Requirements
 `Python 3.x` and `Pandas`.
+Changes are made and need to be commited
