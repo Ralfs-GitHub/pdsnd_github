@@ -7,4 +7,4 @@ statistics for each city. This is implemented in Python.
 
 ## Requirements
 `Python 3.x` and `Pandas`.
-Changes are made 3. time and need to be commited
+Changes are made 2. time and need to be commited
